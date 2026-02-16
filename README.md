@@ -1,0 +1,48 @@
+# HACHI – √64
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+(loop loop loop
+loop loop loop)
+I just wanna loop loop loop
+刻むrhythm
+Catch Catch Catch
+いつまでもloop loop loop
+揺らぐ沈む
+音のない宇宙で眠りたい
+星が燃えた夜があった
+心はずっとあなたのとこにいるよ
+仄かに煙くて褪せた花のような香り、今もFind
+myself
+君のいない街でずっと
+uh
+いつしか私も
+同じように星になるよ
+約束だからね
+I just wanna loop loop loop
+刻むrhythm
+Catch Catch Catch
+いつまでも loop loop loop
+揺らぐ沈む
+音のない宇宙で眠りたい
+Eyes on me
+一人ずっと胸に秘めている
+Touch Touch Touch
+ハートが疼く この痛みさえも愛したい
+深く暗い海の向こう
+届くように光ってる
+これから未来へ向かって眠るね
+どこかで見つけたら笑って
+あの時みたいに
+さよなら loop loop loop
+怖くないよ
+Catch Catch Catch
+いつまでも loop loop loop
+揺らぐ沈む
+音のない宇宙で眠りたい
+Eyes on me
+一人ずっと胸に秘めている
+Touch Touch Touch
+ハートが疼く この痛みさえも愛したい
+```
