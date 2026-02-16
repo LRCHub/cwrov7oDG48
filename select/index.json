@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "√64",
+  "base_artist": "HACHI",
+  "createdAt": "2026-02-16T08:06:23.006240Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back In '64",
+      "artist": "The Rutles",
+      "has_synced": true,
+      "path": "select/01_Back_In_'64_The_Rutles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back In '64",
+      "artist": "The Rutles",
+      "has_synced": true,
+      "path": "select/02_Back_In_'64_The_Rutles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vario 64",
+      "artist": "Savant",
+      "has_synced": true,
+      "path": "select/03_Vario_64_Savant.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Adrift - C-64 Version",
+      "artist": "Apoptygma Berzerk",
+      "has_synced": true,
+      "path": "select/04_Adrift_-_C-64_Version_Apoptygma_Berzerk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kathy's Song - C-64 Version",
+      "artist": "Apoptygma Berzerk",
+      "has_synced": false,
+      "path": "select/05_Kathy's_Song_-_C-64_Version_Apoptygma_Berzerk.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kathy's Song (C-64 Version)",
+      "artist": "Apoptygma Berzerk",
+      "has_synced": false,
+      "path": "select/06_Kathy's_Song_(C-64_Version)_Apoptygma_Berzerk.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Commodore 64 vs. PC",
+      "artist": "Articolo 31",
+      "has_synced": true,
+      "path": "select/07_Commodore_64_vs._PC_Articolo_31.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Area 64-66",
+      "artist": "Emmure",
+      "has_synced": true,
+      "path": "select/08_Area_64-66_Emmure.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reelin' & Rockin' (64-11-11 Chess Studios Chicago)",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/09_Reelin'_&_Rockin'_(64-11-11_Chess_Studios_Chicago)_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "‘64 aka Go",
+      "artist": "Lemon Jelly",
+      "has_synced": true,
+      "path": "select/10_‘64_aka_Go_Lemon_Jelly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "'64 aka Go",
+      "artist": "Lemon Jelly",
+      "has_synced": true,
+      "path": "select/11_'64_aka_Go_Lemon_Jelly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "√64",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_√64_HACHI.txt"
+    }
+  ]
+}
